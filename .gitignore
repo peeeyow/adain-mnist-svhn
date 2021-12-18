@@ -133,3 +133,6 @@ data
 
 #run dir
 runs/
+
+#test files
+test.ipynb
